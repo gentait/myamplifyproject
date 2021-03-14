@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "myamplifyproject71a16355": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
